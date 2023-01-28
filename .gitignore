@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+**/.DS_Store
+pingo-client/npm-debug.log*
+pingo-client/.changelog
+pingo-client/.npm/
+__pycache__/
